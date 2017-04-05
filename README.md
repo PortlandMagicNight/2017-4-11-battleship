@@ -32,8 +32,7 @@ Epicodus,
 400 SW 6th Ave #800, 
 Portland, OR 97204
 
-<iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d2795.475998122339!2d-122.67958708395513!3d45.52062603769678!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x54950a06bbf002b9%3A0x1a5a314da13581e5!2sEpicodus!5e0!3m2!1sen!2sus!4v1491403752393" width="600" height="450" frameborder="0" style="border:0" allowfullscreen></iframe>
-
+![epicodus](./assets/epicodus.png)
 ### When
 
 Tuesday, April 11th.  6:00
