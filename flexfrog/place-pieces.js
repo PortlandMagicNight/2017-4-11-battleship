@@ -1,6 +1,7 @@
 let pad = require('pad')
 
 let board = new Array(100)
+
 let pieces = {
   carrier: 5,
   battleship: 4,
