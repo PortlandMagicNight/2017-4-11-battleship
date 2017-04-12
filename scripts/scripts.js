@@ -15,13 +15,11 @@ for(var i = 0; i<100; i++) {
 createBoard("shots-fired");
 createBoard("my-ships");
 
-var hitAreas = document.querySelectorAll("#shots-fired .square");
+[].forEach.call(document.querySelectorAll("#shots-fired .square"),function(el){
 
-for (var key in hitAreas) {
-  if( hitAreas.hasOwnProperty[key]) {
-    hitAreas[key].addEventListener('click', handleClick)
-  }
-}
+  el.addEventListener('click',handleClick)
+
+})
 
 
 function handleClick(){
